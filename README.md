@@ -18,9 +18,9 @@ If you want you can reach me on:
 </div>
 
 ## You may remember me from such events as...
+![profile](https://github.com/user-attachments/assets/bc05873a-0d86-486d-bf46-9ac29ebf76d0)
 
 ### Codemotion 2024
-<img src="https://github.com/user-attachments/assets/fa494b5a-442f-4433-9f71-6a7e13ab9fee" width="569" height="569" alt="Codemotion 2024" />
 
 ### Gdg Pescara 2023
 <img src="https://github.com/TheZalRevolt/TheZalRevolt/assets/129967922/874d37b8-dd94-45f8-a1c9-16f5398d9cfd" width="569" height="318" alt="GDG Pescara 2023" />
