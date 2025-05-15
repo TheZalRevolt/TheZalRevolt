@@ -1,5 +1,6 @@
 ## Hello There, TheZal here!
-👋 I'm Riccardo, aka known as TheZal, a back-end developer @[Revolt](revoltsrl.com), a place where data really matters.
+
+👋 I'm Riccardo, aka known as TheZal, a tech lead @[Revolt](revoltsrl.com), a place where data really matters.
 
 I'm also a big fan of open source projects and I like to talk about it. Actually I really like to talk (and write) about computer science and as a fellow enthusiast of the fantasy realm, my passion spills over into whimsical analogies between the realms of computer science and fantasy. If you're curious, feel free to explore the enchanting tapestry of my [blog](thezal.dev)!
 
@@ -17,6 +18,10 @@ If you want you can reach me on:
 </div>
 
 ## You may remember me from such events as...
+
+### Codemotion 2024
+<img src="https://github.com/user-attachments/assets/fa494b5a-442f-4433-9f71-6a7e13ab9fee" width="569" height="318" alt="Codemotion 2024" />
+
 ### Gdg Pescara 2023
 <img src="https://github.com/TheZalRevolt/TheZalRevolt/assets/129967922/874d37b8-dd94-45f8-a1c9-16f5398d9cfd" width="569" height="318" alt="GDG Pescara 2023" />
 
